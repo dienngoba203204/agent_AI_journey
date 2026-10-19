@@ -46,7 +46,7 @@ if __name__ == "__main__":
     while True:
         menu = ("What order do you want to order? \n"
                       "A: Check list \n"
-                      "B: Check which products are running low based on predefined thresholds \n"
+                      "B: Check which products are running low \n"
                       "C: Append product \n"
                       "D: Remove product \n"
                       "Q: Quit \n"
